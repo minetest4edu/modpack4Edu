@@ -1,7 +1,7 @@
 # modpack4Edu
 Sammlung von Mods zum Einsatz von Minetest in Bildung + Soziokultur  
 Collection of Mods for Minetest in an educational, social or cultural context  
-Based on different Sources, Forums of the Minetest Community
+Based on different Sources, Forums of the Minetest Community   
 https://forum.minetest.net/viewtopic.php?f=47&t=15665  
 .
 https://minecraft-de.gamepedia.com/Lernen_mit_Minecraft  
