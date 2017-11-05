@@ -10,10 +10,8 @@ rpgtest
 https://forum.minetest.net/viewtopic.php?f=50&t=13761
 
 
-![Minetest Menu](https://github.com/minetest4edu/edutest_minetest-education/blob/master/MinetestEDUStartmenu.png)
 
-
-<img src="https://forum.minetest.net/download/file.php?id=8316" alt="rpgtest" style="width: 50px;"/>
+<img src="https://forum.minetest.net/download/file.php?id=8316" alt="rpgtest" style="width:100px;"/>
 
 ![rpgtest](https://forum.minetest.net/download/file.php?id=8316){:height="36px" width="36px"}
 
