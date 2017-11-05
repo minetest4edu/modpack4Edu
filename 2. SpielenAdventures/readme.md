@@ -1,4 +1,5 @@
-Mods für MinetestEdu, die das machen, wofür "eigentlich" Minecraft und Minetest geschaffen worden sind: zum Spielen :-)
+# Mods für MinetestEdu
+... die das machen, wofür "eigentlich" Minecraft und Minetest geschaffen worden sind: zum Spielen :-)
 (gegen die "Didaktisierung" der Gamificaton :-)
 Super wäre es, eigene Games zu erstellen - also Minetest für das zu benutzen, für das es - neben dem Spielen - ursprünglich geschaffen wurde: 
 um einfach eigene Mods, Welten, Erweiterungen (mit der Programmiersprache LUA) zu erstellen :-)
@@ -6,6 +7,7 @@ um einfach eigene Mods, Welten, Erweiterungen (mit der Programmiersprache LUA) z
 Es gibt einige interessante Games, die man einfach in den /game Ordner zieht ...
 
 rpgtest 
+[![rpgtest ](https://forum.minetest.net/download/file.php?id=8316)](https://forum.minetest.net/download/file.php?id=8316)
 https://forum.minetest.net/viewtopic.php?f=50&t=13761
 
 https://forum.minetest.net/download/file.php?id=8316
