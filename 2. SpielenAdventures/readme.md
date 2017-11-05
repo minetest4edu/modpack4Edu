@@ -9,7 +9,8 @@ Es gibt einige interessante Games, die man einfach in den /game Ordner zieht ...
 rpgtest 
 https://forum.minetest.net/viewtopic.php?f=50&t=13761
 
-![Minetest Menu](https://github.com/minetest4edu/edutest_minetest-education/blob/master/MinetestEDUStartmenu.png){:height="36px" width="36px"}
+![Minetest Menu](https://github.com/minetest4edu/edutest_minetest-education/blob/master/MinetestEDUStartmenu.png =250x
+){:height="36px" width="36px"}
 
 ![rpgtest](https://forum.minetest.net/download/file.php?id=8316){:height="36px" width="36px"}
 
