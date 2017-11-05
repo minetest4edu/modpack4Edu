@@ -7,8 +7,10 @@ um einfach eigene Mods, Welten, Erweiterungen (mit der Programmiersprache LUA) z
 Es gibt einige interessante Games, die man einfach in den /game Ordner zieht ...
 
 rpgtest 
+https://forum.minetest.net/viewtopic.php?f=50&t=13761
 
-![rpgtest (https://forum.minetest.net/download/file.php?id=8316){:height="36px"}
+![rpgtest (https://forum.minetest.net/download/file.php?id=8316){:height="36px" width="36px"}
+
 
 [![rpgtest ]()] (https://forum.minetest.net/download/file.php?id=8316)
 https://forum.minetest.net/viewtopic.php?f=50&t=13761
