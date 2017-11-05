@@ -10,6 +10,7 @@ rpgtest
 https://forum.minetest.net/viewtopic.php?f=50&t=13761
 
 
+<img align="left" width="100" height="50" src="https://forum.minetest.net/download/file.php?id=8316“>
 
 <img src="https://forum.minetest.net/download/file.php?id=8316" alt="rpgtest" style="width:100px;"/>
 
