@@ -8,7 +8,7 @@ Es gibt einige interessante Games, die man einfach in den /game Ordner zieht ...
 
 Hier git es eine Tabellarische Übersicht über die momentan verfügbaren Subgames von minetest - mit folgenden 
 
-##Genres
+## Genres
 
 - Sandbox: There are no particular goals, the gameplay is mostly up to the player. If the sandbox has a notable focus, use one of the following sub-genres:
 - Survival Sandbox: This is for sandboxes with a focus on challenging gameplay. Common elements are hostile enemies, hunger, etc.
@@ -20,12 +20,12 @@ Hier git es eine Tabellarische Übersicht über die momentan verfügbaren Subgam
 - Puzzle: Goal is to find a solution to one or multiple given problems. This includes logic puzzles, math puzzles, thinking games, etc.
 - Not a game: Not a game 
 
-##... ausgewählte Games:
+## ... ausgewählte Games:
 
-#rpgtest 
+### rpgtest 
 https://forum.minetest.net/viewtopic.php?f=50&t=13761
 
-#Story
+#### Story
 Long time ago, the world of rpgtest was a nice place. People invented machines, built gigantic structures and explored the world. But after some time the world of rpgtest suddenly turned into a scary place to live. For some reason, monsters started spawning everywhere. Normal people were not able to live normally in this world anymore. They decided to build houses in trees, because monsters weren't able to climb up things. For some that worked pretty well, but others had problems getting food up there. A group of explorers had a different idea, they decided to build islands in the sky, far away from their hometown. They build a complete ecosystem on these islands and were able to live there by doing so. When they had a basic food source, they sent back some good explorers to try and find the others.
 
 
