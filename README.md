@@ -25,18 +25,19 @@ Dieses Paket enthält ein komplettes »Minetest« (Windows, 64bit) mit den wicht
 ### Download Minetest-Paket (Windows, 64bit, ca. 64 MB)
 https://www.multimediamobile.de/sued-minetest
 
-### Auf der Seite https://www.multimediamobile.de/sued-minetest gibt es außerdem eine ausführliche Präsentation, die zahlreiche Einsatz-Möglichkeiten von »Minetest« in der Schule und der Bildungsarbeit zeigt.
+Auf der Seite https://www.multimediamobile.de/sued-minetest gibt es außerdem eine ausführliche Präsentation, die zahlreiche Einsatz-Möglichkeiten von »Minetest« in der Schule und der Bildungsarbeit zeigt.
 
 ### Anleitung zu »Minetest«:
 Download: https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Minetest-Anleitung.pdf
 
-Einfache Übungen mit »Minetest«:
+### Einfache Übungen mit »Minetest«:
 Download: https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Minetest-Aufgaben.pdf
 
-Für Fortgeschrittene: Coding mit »Mesecons« – das ist das »Redstone« in Minetest ...
+### Für Fortgeschrittene
+Coding mit »Mesecons« – das ist das »Redstone« in Minetest ...
 Welt mit Mesecon-Beispielen zum Download: https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/minetest-informatikland.zip
 
-Für Minetest-Anwender:innen mit der Ambition, eigene Mods zu programmieren:
+### Für Minetest-Anwender:innen mit der Ambition, eigene Mods zu programmieren:
 https://minetest-modding.weebly.com
 
 
