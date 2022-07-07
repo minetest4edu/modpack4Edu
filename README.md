@@ -22,12 +22,12 @@ optional dependencies
 # Für Anfänger:innen zusammengestelltes Paket für »Minetest« by Norbert Thien, multimediamobil – RegionSüd
 Dieses Paket enthält ein komplettes »Minetest« (Windows, 64bit) mit den wichtigsten Zusatzpaketen (»Mods«), um sich gleich in ein großes Bauabenteuer stürzen zu können.
 
-## Download Minetest-Paket (Windows, 64bit, ca. 64 MB)
+### Download Minetest-Paket (Windows, 64bit, ca. 64 MB)
 https://www.multimediamobile.de/sued-minetest
 
-Auf der Seite https://www.multimediamobile.de/sued-minetest gibt es außerdem eine ausführliche Präsentation, die zahlreiche Einsatz-Möglichkeiten von »Minetest« in der Schule und der Bildungsarbeit zeigt.
+### Auf der Seite https://www.multimediamobile.de/sued-minetest gibt es außerdem eine ausführliche Präsentation, die zahlreiche Einsatz-Möglichkeiten von »Minetest« in der Schule und der Bildungsarbeit zeigt.
 
-Anleitung zu »Minetest«:
+### Anleitung zu »Minetest«:
 Download: https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Minetest-Anleitung.pdf
 
 Einfache Übungen mit »Minetest«:
