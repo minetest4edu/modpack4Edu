@@ -19,23 +19,26 @@ optional dependencies
     invis (https://github.com/octacian/minetest-mod-invis)
     areas (https://github.com/ShadowNinja/areas)
 
-# Für Anfänger zusammengestelltes Modpack by Norbert Thiem, multimediamobil Süd
-https://www.multimediamobile.de/sued/materialien-sued/sued-minetest.html
-Nachfolgend finden Sie ein von uns zusammengestelltes Paket zu »Minetest« (Windows, 32bit) mit den wichtigsten Mods, wie wir sie auch in unseren Fortbildungen verwenden.
+# Für Anfänger:innen zusammengestelltes Paket für »Minetest« by Norbert Thien, multimediamobil – RegionSüd
+Dieses Paket enthält ein komplettes »Minetest« (Windows, 64bit) mit den wichtigsten Zusatzpaketen (»Mods«), um sich gleich in ein großes Bauabenteuer stürzen zu können.
 
-Download Minetest-Paket (Windows, 32bit, ca. 32 MB)
+## Download Minetest-Paket (Windows, 64bit, ca. 64 MB)
+https://www.multimediamobile.de/sued-minetest
 
-Anleitung zu »Minetest«: Download
-https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Minetest-Anleitung.pdf
-Einfache Übungen mit »Minetest«: Download
-https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Minetest-Anleitung.pdf
-Welt mit einigen Mesecon-Beispielen: Download (u.a Mod signs_lib nötig)
+Auf der Seite https://www.multimediamobile.de/sued-minetest gibt es außerdem eine ausführliche Präsentation, die zahlreiche Einsatz-Möglichkeiten von »Minetest« in der Schule und der Bildungsarbeit zeigt.
 
-Für Fortgeschrittene (Codinge mit Mesecons  - das ist das "Redstone" in Minetest :-)
-https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Meseland.zip
+Anleitung zu »Minetest«:
+Download: https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Minetest-Anleitung.pdf
 
+Einfache Übungen mit »Minetest«:
+Download: https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Minetest-Aufgaben.pdf
 
-Unser Minetest-Paket enthält aktuell folgende Erweiterungen: areas, basic_robot, digilines, digiline_remote, edutest, edutestChatcommands, freeze, grassland, intllib, invis, mesecons, moreblocks, pvpplus, signs_lib, unifiedinventory, WorldEdit. 
+Für Fortgeschrittene: Coding mit »Mesecons« – das ist das »Redstone« in Minetest ...
+Welt mit Mesecon-Beispielen zum Download: https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/minetest-informatikland.zip
+
+Für Minetest-Anwender:innen mit der Ambition, eigene Mods zu programmieren:
+https://minetest-modding.weebly.com
+
 
 # Quellen / Sources
 
